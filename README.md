@@ -1,4 +1,5 @@
 # IntegrativeProject
 Progress of integrative project
 
-My first rol as data scientist in this project was change 3 columns about annual salaries
+In this project, I took my first role as a Data Scientist.
+My initial task was to normalize annual salary data by converting values from different currencies into USD. This involved cleaning and transforming three key columns related to annual compensation.
